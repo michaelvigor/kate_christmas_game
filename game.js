@@ -1,16 +1,16 @@
 // Food configuration (smallest to largest)
 const FOODS = [
-    { name: 'cranberry', svg: 'assets/cranberry.svg', radius: 18, score: 1 },
-    { name: 'sprout', svg: 'assets/sprout.svg', radius: 21, score: 2 },
-    { name: 'carrot', svg: 'assets/carrot.svg', radius: 25, score: 4 },
-    { name: 'cabbage', svg: 'assets/cabbage.svg', radius: 28, score: 8 },
-    { name: 'potato', svg: 'assets/potato.svg', radius: 32, score: 16 },
-    { name: 'broccoli', svg: 'assets/broccoli.svg', radius: 35, score: 32 },
-    { name: 'yorkshire', svg: 'assets/yorkshire.svg', radius: 39, score: 64 },
-    { name: 'sausage', svg: 'assets/sausage.svg', radius: 42, score: 128 },
-    { name: 'stuffing', svg: 'assets/stuffing.svg', radius: 48, score: 256 },
-    { name: 'turkey', svg: 'assets/turkey.svg', radius: 53, score: 512 },
-    { name: 'pudding', svg: 'assets/pudding.svg', radius: 60, score: 1024 }
+    { name: 'cranberry', svg: 'assets/cranberry.svg', radius: 15, score: 1 },
+    { name: 'sprout', svg: 'assets/sprout.svg', radius: 19, score: 2 },
+    { name: 'carrot', svg: 'assets/carrot.svg', radius: 24, score: 4 },
+    { name: 'cabbage', svg: 'assets/cabbage.svg', radius: 29, score: 8 },
+    { name: 'broccoli', svg: 'assets/broccoli.svg', radius: 34, score: 16 },
+    { name: 'potato', svg: 'assets/potato.svg', radius: 40, score: 32 },
+    { name: 'yorkshire', svg: 'assets/yorkshire.svg', radius: 46, score: 64 },
+    { name: 'sausage', svg: 'assets/sausage.svg', radius: 52, score: 128 },
+    { name: 'stuffing', svg: 'assets/stuffing.svg', radius: 58, score: 256 },
+    { name: 'turkey', svg: 'assets/turkey.svg', radius: 66, score: 512 },
+    { name: 'pudding', svg: 'assets/pudding.svg', radius: 75, score: 1024 }
 ];
 
 // Weighted spawn probabilities (only first 5 can spawn)

@@ -2,7 +2,7 @@
     "name": "Kate's Christmas Lunch Game",
     "short_name": "Kate's Christmas",
     "description": "A festive food-merging game!",
-    "start_url": "./index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#1a472a",
